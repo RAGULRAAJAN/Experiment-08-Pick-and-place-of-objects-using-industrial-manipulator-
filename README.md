@@ -83,31 +83,30 @@ and click on the connect icon
 
 
 
+## OUTPUT VIDEO and SCREEN SHOTS OF PICK & PLACE:
 
+### PROGRAM:
+![IMG-20240422-WA0014](https://github.com/RAGULRAAJAN/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147473144/92d85996-ae6c-4b25-a74b-ab0893793661)
 
+![IMG-20240422-WA0015](https://github.com/RAGULRAAJAN/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147473144/06bbc58c-cd09-416e-94d1-f17ff118cbb1)
 
+![IMG-20240422-WA0016](https://github.com/RAGULRAAJAN/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147473144/1c042a5f-4304-4915-aa0b-a80fe15692a4)
 
+![IMG-20240422-WA0017](https://github.com/RAGULRAAJAN/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147473144/fa082154-8cd0-45a2-bb8a-90d351a291b7)
 
+### SCREEN SHOTS:
+![IMG-20240422-WA0006](https://github.com/RAGULRAAJAN/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147473144/b3147087-415d-44cd-af0e-550116a774de)
+![IMG-20240422-WA0007](https://github.com/RAGULRAAJAN/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147473144/04a1df2d-1255-4abc-8395-d78a38e13644)
+![IMG-20240422-WA0008](https://github.com/RAGULRAAJAN/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147473144/1a92b627-c3a8-4d5d-a8cb-b25bacf292f7)
+![IMG-20240422-WA0009](https://github.com/RAGULRAAJAN/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147473144/79986eba-bc60-4564-a44d-0e556bbd7338)
+![IMG-20240422-WA0010](https://github.com/RAGULRAAJAN/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147473144/d6039a6d-8741-478d-9968-6a83944187f9)
 
-
-
-
-
-
-
-
-
-
-### output video and screen shots of pick and place 
-
-
-
-
-
+![IMG-20240422-WA0011](https://github.com/RAGULRAAJAN/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147473144/e699209d-57f6-4a0f-9de0-674d1c790494)
+![IMG-20240422-WA0012](https://github.com/RAGULRAAJAN/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/147473144/9c51bbf9-6c32-45a8-bd72-2ade4d75d862)
 
 
 ### Results: 
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
